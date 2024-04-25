@@ -1,0 +1,5 @@
+.#{$root-class-element} {
+    height: 100vh;
+
+    @import './layout-sider.scss';
+}
